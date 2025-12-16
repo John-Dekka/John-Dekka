@@ -1,7 +1,9 @@
-# John Dekka | Developer Portfolio
+<div align="center">
+  <h1>John Dekka | Developer Portfolio</h1>
+</div>
 
 <div align="center">
-  <img src="https://github.com/John-Dekka/John-Dekka/blob/main/assets/jdt-master-512px.png?raw=true" alt="John Dekka Tech" width="512">
+  <img src="https://github.com/John-Dekka/John-Dekka/blob/main/assets/jdt-master-512px.png?raw=true" alt="John Dekka Tech" width="384">
 </div>
 
 ## About Me
