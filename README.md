@@ -1,8 +1,8 @@
 # John Dekka | Developer Portfolio
 
-
-![John Dekka Tech](https://github.com/John-Dekka/John-Dekka/blob/main/assets/jdt-master-512px.png?raw=true)
-
+<div align="center">
+  <img src="https://github.com/John-Dekka/John-Dekka/blob/main/assets/jdt-master-512px.png?raw=true" alt="John Dekka Tech" width="512">
+</div>
 
 ## About Me
 
@@ -76,6 +76,8 @@ I've been tinkering with this stuff for about 25 years now. Operating systems, s
 - **Open-Source Contributions**: Publishing tools, datasets, or benchmarks (e.g., on `Hugging Face`, `GitHub`, or `Papers With Code`).
 - **Mentorship**: Guiding teams on adopting LLM workflows or debugging training issues.
 
+---
+
 ### 💻 Development
 *Building tools and solving problems.*
 - **Python** (Daily Driver 🐍)
@@ -95,14 +97,16 @@ I've been tinkering with this stuff for about 25 years now. Operating systems, s
 - **English** (Fluent)
 - **Norwegian** (Godt nok)
 
+---
+
 ## 🚀 Projects
 [John-Dekka GitHub](https://github.com/John-Dekka)
 
 ## 📬 Get in Touch
 Feel free to reach out!
 
-[johndekka.tech](https://johndekka.tech)
-[jdekka@johndekka.tech](mailto:jdekka@johndekka.tech)
-[Telegram](https://t.me/johndekkatech)
-[Twitter](https://twitter.com/JohnDekkaTech)
-[GitHub](https://github.com/John-Dekka)
+- [johndekka.tech](https://johndekka.tech)
+- [jdekka@johndekka.tech](mailto:jdekka@johndekka.tech)
+- [Telegram](https://t.me/johndekkatech)
+- [Twitter](https://twitter.com/JohnDekkaTech)
+- [GitHub](https://github.com/John-Dekka)
