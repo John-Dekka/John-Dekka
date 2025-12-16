@@ -1,7 +1,7 @@
 # John Dekka | Developer Portfolio
 
 
-![John Dekka Tech](https://github.com/John-Dekka/John-Dekka/blob/master/assets/jdt-master-512px.png?raw=true)
+![John Dekka Tech](https://github.com/John-Dekka/John-Dekka/blob/main/assets/jdt-master-512px.png?raw=true)
 
 
 ## About Me
